@@ -12,3 +12,6 @@ Modeling:
 Strategy:
 - Evaluate key locations such as universities, hospitals, and shopping malls
 - Assess whether these locations influence cafe performance
+
+
+<img width="1696" height="796" alt="image" src="https://github.com/user-attachments/assets/d1c14501-1fab-439e-baf4-e90a194b362e" />
